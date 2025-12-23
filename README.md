@@ -47,8 +47,8 @@ I am a proactive Cybersecurity student focused on the intersection of **Penetrat
 
 ### 📂 Highlighted Repositories
 
-- **[Nmap Automator](link):** A Python script to streamline discovery and export results to CSV.
-- **[Sentinel Firewall](link):** A Scapy-based tool for dynamic DDoS mitigation using Iptables.
+- **[Nmap Automator](https://github.com/Elliot-171/MrRBT/tree/09a708f664d70607436ad4ad8379d9c78a1d55db/port_scan):** A Python script to streamline discovery and export results to CSV.
+- **[Sentinel Firewall](https://github.com/Elliot-171/MrRBT/tree/09a708f664d70607436ad4ad8379d9c78a1d55db/firewall_simulator):** A Scapy-based tool for dynamic DDoS mitigation using Iptables.
 - **[CTF-Writeups](link):** My documentation and thought processes for HTB machines and OWASP Top 10 exploitation.
 
 ---
