@@ -6,7 +6,7 @@
 
 
 # 👋 Hi, I'm Sayan Ghosh
-### 🛡️ Aspiring Cybersecurity Analyst | 1st Year CS Student
+### 🛡️ Aspiring Cybersecurity Analyst | 2nd Year CS Student
 
 I am a proactive Cybersecurity student focused on the intersection of **Penetration Testing** and **Security Operations**. Currently, I'm building a strong foundation in the **MITRE ATT&CK Framework** and the **OWASP Top 10**, while maintaining a hands-on virtual lab environment for vulnerability research.
 
