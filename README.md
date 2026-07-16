@@ -45,12 +45,6 @@ I am a proactive Cybersecurity student focused on the intersection of **Penetrat
   <img src="https://skillicons.dev/icons?i=py,linux,debian,ubuntu,kali,mysql" />
 </p>
 
-### 📂 Highlighted Repositories
-
-- **[Nmap Automator](https://github.com/Elliot-171/MrRBT/tree/09a708f664d70607436ad4ad8379d9c78a1d55db/port_scan):** A Python script to streamline discovery and export results to CSV.
-- **[Sentinel Firewall](https://github.com/Elliot-171/MrRBT/tree/09a708f664d70607436ad4ad8379d9c78a1d55db/firewall_simulator):** A Scapy-based tool for dynamic DDoS mitigation using Iptables.
-
----
 
 ### 📈 GitHub Stats
 <p align="left">
